@@ -1,2 +1,21 @@
 # SteelDiver-SubWars-Recomp
 Community static recompilation project for Steel Diver: Sub Wars (3DS)
+
+# Steel Diver: Sub Wars - PC Recomp Project
+
+A community-driven effort to create a native PC port of **Steel Diver: Sub Wars** (Nintendo 3DS) using static recompilation (`3dsrecomp`).
+
+ **Legal Disclaimer:** This repository contains **NO copyrighted assets, ROMs, `.cia`, or encryption keys**. Users must provide their own legally dumped and decrypted copy of the game to extract assets. (wink) 
+
+# Project Goals
+- [ ] Extract and analyze ARM11 `code.bin` (`00040000000D7D00` USA / `00040000000D7E00` EUR)
+- [ ] Run initial static translation via `3dsrecomp`
+- [ ] Implement HLE shims (`nn::gx`, `nn::hid`, `nn::ndsp`) using SDL2 & OpenGL
+- [ ] Enable built-in Premium content unlock via code
+- [ ] High-resolution rendering, 60 FPS, and custom multiplayer support
+
+# How to Contribute
+I am the project organizer (not a C++ dev!), so **we need reverse engineers and C/C++ developers** to help kick off the codebase!
+* Check the **Issues** or **Discussions** tab to coordinate.
+* Feel free to open a **Pull Request** with initial `3dsrecomp` outputs or Ghidra symbol maps.
+
