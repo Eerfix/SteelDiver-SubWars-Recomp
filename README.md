@@ -19,3 +19,12 @@ I am the project organizer (not a C++ dev!), so **we need reverse engineers and 
 * Check the **Issues** or **Discussions** tab to coordinate.
 * Feel free to open a **Pull Request** with initial `3dsrecomp` outputs or Ghidra symbol maps.
 
+##  Credits & Contributors
+Every developer who contributes code, reverse-engineering notes, or shims to this project will be **officially credited inside the PC port's main menu / Credits screen** (as well as right here!).
+
+* When you submit a Pull Request, feel free to include your **handle/name** and **1 personal link** (GitHub, portfolio, X/Twitter, YouTube, etc.).
+* *Note: All submitted links will be manually reviewed before being added to keep the project safe and clean.*
+
+### Current Team:
+* **Eerfix** – Project Founder, Organizer & Linux Tester
+* *(Your name here!)*
