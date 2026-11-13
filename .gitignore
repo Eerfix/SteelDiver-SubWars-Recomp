@@ -1,0 +1,11 @@
+# Strictly ignore all copyrighted 3DS files and ROMs
+*.3ds
+*.cia
+*.cci
+*.cxi
+*.ncch
+*.bin
+*.romfs
+*.exefs
+aes_keys.txt
+seeddb.bin
