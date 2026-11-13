@@ -1,6 +1,3 @@
-# SteelDiver-SubWars-Recomp
-Community static recompilation project for Steel Diver: Sub Wars (3DS)
-
 # Steel Diver: Sub Wars - PC Recomp Project
 
 A community-driven effort to create a native PC port of **Steel Diver: Sub Wars** (Nintendo 3DS) using static recompilation (`3dsrecomp`).
