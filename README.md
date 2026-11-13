@@ -5,7 +5,7 @@ Community static recompilation project for Steel Diver: Sub Wars (3DS)
 
 A community-driven effort to create a native PC port of **Steel Diver: Sub Wars** (Nintendo 3DS) using static recompilation (`3dsrecomp`).
 
- **Legal Disclaimer:** This repository contains **NO copyrighted assets, ROMs, `.cia`, or encryption keys**. Users must provide their own legally dumped and decrypted copy of the game to extract assets. (wink) 
+ **Legal Disclaimer:** This repository contains **NO copyrighted assets, ROMs, `.cia`, or encryption keys**. Users must provide their own legally dumped and decrypted copy of the game to extract assets.
 
 # Project Goals
 - [ ] Extract and analyze ARM11 `code.bin` (`00040000000D7D00` USA / `00040000000D7E00` EUR)
